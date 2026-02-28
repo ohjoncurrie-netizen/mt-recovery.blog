@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "rocky mountain treatment center",
+    "city": "great falls",
+    "type": "comprehensive rehab",
+    "lat": 47.5053,
+    "lng": -111.3008,
+    "services": "detox, residential, equine therapy",
+    "phone": "406-453-5080"
+  },
+  {
+    "id": 2,
+    "name": "rimrock foundation",
+    "city": "billings",
+    "type": "comprehensive rehab",
+    "lat": 45.7833,
+    "lng": -108.5007,
+    "services": "dual diagnosis, inpatient, adolescent care",
+    "phone": "406-248-3175"
+  },
+  {
+    "id": 3,
+    "name": "montana chemical dependency center",
+    "city": "butte",
+    "type": "state facility",
+    "lat": 46.0038,
+    "lng": -112.5347,
+    "services": "inpatient detox, state-funded support",
+    "phone": "406-496-5400"
+  },
+  {
+    "id": 4,
+    "name": "recovery center missoula",
+    "city": "missoula",
+    "type": "clinical treatment",
+    "lat": 46.8721,
+    "lng": -113.9940,
+    "services": "high-intensity inpatient, medication assisted treatment",
+    "phone": "406-532-9900"
+  },
+  {
+    "id": 5,
+    "name": "recovery centers of montana (the ranch)",
+    "city": "columbia falls",
+    "type": "residential",
+    "lat": 48.3700,
+    "lng": -114.1800,
+    "services": "mens facility, outdoor-based recovery",
+    "phone": "888-726-3681"
+  },
+  {
+    "id": 6,
+    "name": "wellness kiosk 01",
+    "city": "helena",
+    "type": "harm reduction",
+    "lat": 46.5891,
+    "lng": -112.0391,
+    "services": "free naloxone, fentanyl test strips",
+    "phone": "dphhs managed"
+  },
+  {
+    "id": 7,
+    "name": "open aid alliance",
+    "city": "missoula",
+    "type": "harm reduction",
+    "lat": 46.8650,
+    "lng": -114.0100,
+    "services": "needle exchange, narcan distribution, peer support",
+    "phone": "406-543-4699"
+  },
+  {
+    "id": 8,
+    "name": "boyd andrew community services",
+    "city": "helena",
+    "type": "outpatient",
+    "lat": 46.5920,
+    "lng": -112.0350,
+    "services": "corrections-linked rehab, employment support",
+    "phone": "406-443-2343"
+  }
+]
